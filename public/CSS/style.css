@@ -1,0 +1,61 @@
+
+body {
+    background-color: honeydew;
+}
+
+.mainLondon {
+    width: 500px;
+    display: block;
+    margin: auto;
+    /* display: flex;
+    position: center; */
+}
+
+
+.lonBridge {
+
+    width: 500px;
+    display: block;
+    margin: auto;
+   
+    /* display: flex;
+    position: center; */
+
+
+}
+
+
+.londonEye {
+    width: 500px;
+    display: block;
+    margin: auto;
+    /* display: flex;
+    position: center; */
+
+}
+
+.mainHome {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    display: block;
+    margin: auto;
+    
+}
+
+.mainAbout {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    display: block;
+    margin: auto;
+    
+}
+
+.mainWorks {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+
+
